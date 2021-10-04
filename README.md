@@ -4,7 +4,7 @@
 - 👀 I’m interested in Full time Software Engineering positions
 - 🌱 I’m currently learning cloud computing technologies and warehouse scale optimization
 - 💼 My Portfolio: https://zshanahmed.github.io/
-- 📫 How to reach me zeeshan-ahmed@uiowa.edu
+- 📫 How to reach me: zeeshan-ahmed@uiowa.edu
 
 <!---
 zshanahmed/zshanahmed is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
